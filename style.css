@@ -1,0 +1,23 @@
+html { 
+  background: url(src/thunder.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}    ::-moz-selection{
+    background-color:Transparent;
+    color:#000;
+    }
+
+    ::selection {
+    background-color:Transparent;
+    color:#000;
+    }
+    #z
+        .center {
+        	margin: auto;
+        	width: 10%;
+
+        	})
+.myclass::-moz-selection,
+.myclass::selection { ... }
